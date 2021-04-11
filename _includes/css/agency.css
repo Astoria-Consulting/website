@@ -277,10 +277,10 @@ header {
     background-image: url('img/Logo_wide.png');
     background-position: center bottom;
     background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
     background-size: contain;
-    -o-background-size: cover;
+    -o-background-size: contain;
     margin-top: 20px;
 }
 
