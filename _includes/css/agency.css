@@ -275,7 +275,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-image: url('img/Logo_wide.png');
-    background-position: center bottom;
+    background-position: center center;
     background-repeat: no-repeat;
     -webkit-background-size: contain;
     -moz-background-size: contain;
